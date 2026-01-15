@@ -1,0 +1,10 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8",
+        "editor.formatOnSave": true
+    },
+    "autopep8.path": [
+        "/home/memorexx/projects/Python_crash_course_exercises/.venv/bin/autopep8"
+    ],
+    "python.terminal.activateEnvironment": false
+}
