@@ -20,3 +20,5 @@ for ordinal_number in ordinal_numbers:
         print(ordinal_numbers[2], "rd")
     else:
         print(ordinal_number, "th")
+
+# todo: Continue from page 88, Chater 5, "Styling Your if Statements"
