@@ -20,5 +20,5 @@ glossary = {
     'variable': 'A named container that stores a value in memory.'
 }
 
-for glossary_py in glossary.keys():
-    print(f"
+for key, value in glossary.items():
+    print(f"\n{key.title()}, {value}")
