@@ -7,3 +7,7 @@ favorite_number = {
 }
 
 print(favorite_number['mark'])
+
+for name, number in favorite_number.items():
+    print(f"\n{name.title()}'s favorite numbers are: ")
+    print(f"\t{number}")

@@ -2,7 +2,7 @@ favorite_languages = {
     'jen': ['python', 'rust'],
     'sarah': ['c'],
     'edward': ['rust', 'go'],
-    'phil': ['pyhthon', 'haskell'],
+    'phil': ['python', 'haskell'],
 }
 
 for name, languages in favorite_languages.items():

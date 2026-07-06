@@ -8,3 +8,6 @@ glossary = {
 
 
 # todo: continue from page 99, "looping Through All Key-Value Pairs"
+for glossaries, meaning in glossary.items():
+    print(f"\n{glossaries.title()}'s meaning is: ")
+    print(f"{meaning}")
