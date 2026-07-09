@@ -37,3 +37,4 @@ for pet in pets:
     print(f"\tColor: {pet_color.title()}")
     print(f"\tType: {pet_type.title()}")
     print(f"\tOwner: {pet_owner.title()}")
+    print()
