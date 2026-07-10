@@ -8,3 +8,10 @@ fact about that city. The keys for each city’s dictionary should be something
 like country, population, and fact. Print the name of each city and all of the 
 information you have stored about it
 '''
+cities: {
+    'paris': {
+        'country': ' france',
+        'population': 2161000,
+        'fact': 'home of eiffel tower'
+    },
+}
