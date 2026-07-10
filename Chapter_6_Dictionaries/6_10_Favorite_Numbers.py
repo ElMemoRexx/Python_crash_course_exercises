@@ -19,3 +19,5 @@ for name, numbers in favorite_number.items():
     print(f"\n{name.title()}'s favorite numbers are: ")
     for number in numbers:
         print(f"\t{number}")
+
+# todo: Continue from excercise 6-11 from page 111
